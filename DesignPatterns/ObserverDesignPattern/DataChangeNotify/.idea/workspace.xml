@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fada1063-9d46-4f93-9ebf-0adfad25f945" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/Chart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/Subject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/ChartClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/DataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/DataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/Chart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/Chart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/demo/SpreadSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/SpreadSheet.java" afterDir="false" />
     </list>
