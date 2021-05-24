@@ -3,8 +3,6 @@
 
 
 <p align="center">
-<a><img src="https://img.shields.io/badge/Design%20Patterns-Creational-red?style=for-the-badge&logo=java"></a>
-<a><img src="https://img.shields.io/badge/Design%20Patterns-Structural-blue?style=for-the-badge&logo=java"></a>
 <a><img src="https://img.shields.io/badge/Design%20Patterns-Behavioural-silver?style=for-the-badge&logo=java"></a>
 <a><img src="https://img.shields.io/badge/Built%20By-IntelliJ%20Editor-red?style=for-the-badge&logo=intelliJ%20IDEA"></a>  
 </p>
