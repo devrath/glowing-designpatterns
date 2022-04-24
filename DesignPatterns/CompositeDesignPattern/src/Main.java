@@ -11,6 +11,7 @@ public class Main {
         categoryGroups.add(new MoviesFolder());
         categoryGroups.add(new SoftwaresFolder());
 
+        categoryGroups.add(new CategoryGroups());
         categoryGroups.printFolderDetails();
 
     }

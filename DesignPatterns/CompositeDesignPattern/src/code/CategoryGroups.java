@@ -3,29 +3,20 @@ package code;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CategoryGroups {
+public class CategoryGroups implements Component {
 
-    private List<Object> shapes = new ArrayList<>();
+    private List<Component> shapes = new ArrayList<>();
 
-    public void add(Object object){
+    public void add(Component object){
         shapes.add(object);
     }
 
+    @Override
     public void printFolderDetails() {
-        for (Object obj: shapes) {
-            if (obj instanceof MoviesFolder){
-                System.out.println("----------------------------");
-                ((MoviesFolder)obj).printFolderDetails();
-                System.out.println("----------------------------");
-            } else if(obj instanceof SoftwaresFolder) {
-                System.out.println("----------------------------");
-                ((SoftwaresFolder)obj).printFolderDetails();
-                System.out.println("----------------------------");
-            } else if(obj instanceof SongsFolder) {
-                System.out.println("----------------------------");
-                ((SongsFolder)obj).printFolderDetails();
-                System.out.println("----------------------------");
-            }
+        for (Component obj: shapes) {
+            System.out.println("----------------------------");
+            obj.printFolderDetails();
+            System.out.println("----------------------------");
         }
     }
 

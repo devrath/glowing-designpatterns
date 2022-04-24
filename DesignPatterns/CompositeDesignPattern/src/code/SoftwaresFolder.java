@@ -1,7 +1,8 @@
 package code;
 
-public class SoftwaresFolder {
+public class SoftwaresFolder implements Component {
 
+    @Override
     public void printFolderDetails() {
         printFolderSize();
         printNoOfItems();

@@ -1,7 +1,8 @@
 package code;
 
-public class MoviesFolder {
+public class MoviesFolder implements Component{
 
+    @Override
     public void printFolderDetails() {
         printFolderSize();
         printNoOfItems();

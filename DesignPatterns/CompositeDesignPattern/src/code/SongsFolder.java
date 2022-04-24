@@ -1,7 +1,8 @@
 package code;
 
-public class SongsFolder {
+public class SongsFolder implements Component {
 
+    @Override
     public void printFolderDetails() {
         printFolderSize();
         printNoOfItems();
