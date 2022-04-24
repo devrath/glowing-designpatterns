@@ -1,4 +1,4 @@
-import code.Group;
+import code.CategoryGroups;
 import code.MoviesFolder;
 import code.SoftwaresFolder;
 import code.SongsFolder;
@@ -6,12 +6,12 @@ import code.SongsFolder;
 public class Main {
     public static void main(String[] args){
 
-        Group group = new Group();
-        group.add(new SongsFolder());
-        group.add(new MoviesFolder());
-        group.add(new SoftwaresFolder());
+        CategoryGroups categoryGroups = new CategoryGroups();
+        categoryGroups.add(new SongsFolder());
+        categoryGroups.add(new MoviesFolder());
+        categoryGroups.add(new SoftwaresFolder());
 
-        group.printFolderDetails();
+        categoryGroups.printFolderDetails();
 
     }
 }

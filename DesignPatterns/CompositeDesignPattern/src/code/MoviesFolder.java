@@ -1,11 +1,17 @@
 package code;
 
 public class MoviesFolder {
-    public void printFolderSize() {
+
+    public void printFolderDetails() {
+        printFolderSize();
+        printNoOfItems();
+    }
+
+    private void printFolderSize() {
         System.out.println("Size of the Movies folder is X-Bytes");
     }
 
-    public void printNoOfItems() {
+    private void printNoOfItems() {
         System.out.println("The number of items in Movies folder are X-Items");
     }
 }

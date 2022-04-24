@@ -1,6 +1,12 @@
 package code;
 
 public class SoftwaresFolder {
+
+    public void printFolderDetails() {
+        printFolderSize();
+        printNoOfItems();
+    }
+
     public void printFolderSize() {
         System.out.println("Size of the Software folder is X-Bytes");
     }

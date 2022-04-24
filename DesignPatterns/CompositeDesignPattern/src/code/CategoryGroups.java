@@ -3,7 +3,7 @@ package code;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Group {
+public class CategoryGroups {
 
     private List<Object> shapes = new ArrayList<>();
 
@@ -15,18 +15,15 @@ public class Group {
         for (Object obj: shapes) {
             if (obj instanceof MoviesFolder){
                 System.out.println("----------------------------");
-                ((MoviesFolder)obj).printFolderSize();
-                ((MoviesFolder)obj).printNoOfItems();
+                ((MoviesFolder)obj).printFolderDetails();
                 System.out.println("----------------------------");
             } else if(obj instanceof SoftwaresFolder) {
                 System.out.println("----------------------------");
-                ((SoftwaresFolder)obj).printFolderSize();
-                ((SoftwaresFolder)obj).printNoOfItems();
+                ((SoftwaresFolder)obj).printFolderDetails();
                 System.out.println("----------------------------");
             } else if(obj instanceof SongsFolder) {
                 System.out.println("----------------------------");
-                ((SongsFolder)obj).printFolderSize();
-                ((SongsFolder)obj).printNoOfItems();
+                ((SongsFolder)obj).printFolderDetails();
                 System.out.println("----------------------------");
             }
         }
