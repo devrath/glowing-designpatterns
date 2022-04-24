@@ -1,4 +1,4 @@
-package code;
+package SampleFoldercode;
 
 public interface Component {
     void printFolderDetails();

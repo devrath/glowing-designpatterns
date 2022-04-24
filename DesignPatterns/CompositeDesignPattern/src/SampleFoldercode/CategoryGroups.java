@@ -1,4 +1,4 @@
-package code;
+package SampleFoldercode;
 
 import java.util.ArrayList;
 import java.util.List;

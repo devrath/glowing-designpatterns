@@ -1,7 +1,7 @@
-import code.CategoryGroups;
-import code.MoviesFolder;
-import code.SoftwaresFolder;
-import code.SongsFolder;
+import SampleFoldercode.CategoryGroups;
+import SampleFoldercode.MoviesFolder;
+import SampleFoldercode.SoftwaresFolder;
+import SampleFoldercode.SongsFolder;
 
 public class Main {
     public static void main(String[] args){

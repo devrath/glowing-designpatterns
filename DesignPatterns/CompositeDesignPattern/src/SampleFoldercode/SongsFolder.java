@@ -1,4 +1,4 @@
-package code;
+package SampleFoldercode;
 
 public class SongsFolder implements Component {
 
