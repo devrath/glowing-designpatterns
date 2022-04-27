@@ -14,9 +14,9 @@ public class FilterImageView {
      */
     private void initializeImage() {
         if(imageLocation.length()==0) {
-            System.out.println("Image is initialized");
-        }else{
             System.out.println("Image is not initialized");
+        }else{
+            System.out.println("Image is initialized");
         }
     }
 
