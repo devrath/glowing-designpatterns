@@ -1,4 +1,4 @@
 public interface Visitor {
-    public void visit(ConcreteElementA concreteElementA);
-    public void visit(ConcreteElementB concreteElementB);
+    public void visit(PaymentGooglePay googlePay);
+    public void visit(PaymentPhonePe paymentPhonePe);
 }

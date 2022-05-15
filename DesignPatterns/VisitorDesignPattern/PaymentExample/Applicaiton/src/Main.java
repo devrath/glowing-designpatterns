@@ -3,10 +3,10 @@ public class Main {
 
         System.out.println("Starting the Program");
         Feature feat = new Feature();
-        feat.add(new ConcreteElementA());
+        feat.add(new PaymentGooglePay());
         //feat.add(new ConcreteElementB());
 
-        feat.execute(new OperationA());
+        feat.execute(new OperationIsValidTransaction());
         System.out.println("Ending the Program");
 
     }
