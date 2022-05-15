@@ -14,9 +14,15 @@ public class Main {
         // Feature to be executed
         feat.add(new PaymentGooglePay());
         // Operations to be performed
-        feat.execute(new OperationIsUserBlocked());
-        feat.execute(new OperationIsValidTransaction());
-        feat.execute(new OperationHasCardSaved());
+        boolean resultIsBlocked = feat.execute(new OperationIsUserBlocked());
+        boolean resultIsValidTransaction = feat.execute(new OperationIsValidTransaction());
+        boolean resultHasCardSaved = feat.execute(new OperationHasCardSaved());
+
+        if (resultIsBlocked && resultIsValidTransaction && resultHasCardSaved) {
+            System.out.println("Operation successful");
+        } else {
+            System.out.println("Operation un-successful");
+        }
         // ------------------------------------------------------------
         System.out.println("Ending the Program");
 

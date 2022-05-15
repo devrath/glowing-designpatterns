@@ -8,12 +8,14 @@ import code.paymentModes.PaymentPhonePe;
  */
 public class OperationIsValidTransaction implements Visitor {
     @Override
-    public void visit(PaymentGooglePay googlePay) {
+    public Boolean visit(PaymentGooglePay googlePay) {
         System.out.println("Implementation - checking google pay transaction is valid ot not");
+        return true;
     }
 
     @Override
-    public void visit(PaymentPhonePe paymentPhonePe) {
+    public Boolean visit(PaymentPhonePe paymentPhonePe) {
         System.out.println("Implementation - checking phone pay transaction is valid ot not");
+        return true;
     }
 }

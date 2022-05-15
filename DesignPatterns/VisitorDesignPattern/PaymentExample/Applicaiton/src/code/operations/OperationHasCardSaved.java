@@ -4,16 +4,18 @@ import code.paymentModes.PaymentGooglePay;
 import code.paymentModes.PaymentPhonePe;
 
 /**
- * LOGIC 
+ * LOGIC
  */
 public class OperationHasCardSaved  implements Visitor {
     @Override
-    public void visit(PaymentGooglePay googlepay) {
+    public Boolean visit(PaymentGooglePay googlepay) {
         System.out.println("Implementation - checking google pay user credentials is saved or not");
+        return true;
     }
 
     @Override
-    public void visit(PaymentPhonePe paymentPhonePe) {
+    public Boolean visit(PaymentPhonePe paymentPhonePe) {
         System.out.println("Implementation - checking phone pay user credentials is saved or not");
+        return true;
     }
 }

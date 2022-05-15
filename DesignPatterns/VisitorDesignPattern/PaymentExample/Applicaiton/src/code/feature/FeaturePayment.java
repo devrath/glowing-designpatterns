@@ -16,9 +16,14 @@ public class FeaturePayment {
     }
 
     // Initiating the list of operations one after other
-    public void execute(Visitor visitor){
+    public boolean execute(Visitor visitor){
+        boolean areOperationsSuccessful = true;
         for (Element element : operations) {
-            element.accept(visitor);
+            areOperationsSuccessful = element.accept(visitor);
+            if(areOperationsSuccessful==false){
+                break;
+            }
         }
+        return areOperationsSuccessful;
     }
 }
