@@ -1,4 +1,9 @@
-public class OperationHasCardSaved  implements Visitor{
+package code.operations;
+
+import code.paymentModes.PaymentGooglePay;
+import code.paymentModes.PaymentPhonePe;
+
+public class OperationHasCardSaved  implements Visitor {
     @Override
     public void visit(PaymentGooglePay googlepay) {
         System.out.println("Implementation - checking google pay user credentials is saved or not");
