@@ -2,13 +2,11 @@
 
 
 <h1 align="center">𝚐𝚕𝚘𝚠𝚒𝚗𝚐-𝚍𝚎𝚜𝚒𝚐𝚗-𝚙𝚊𝚝𝚝𝚎𝚛𝚗𝚜 🧞‍</h1>
-<h3 align="center">𝙳𝚎𝚜𝚒𝚐𝚗 𝚙𝚊𝚝𝚝𝚎𝚛𝚗𝚜 𝚏𝚘𝚛 𝚍𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐 𝚖𝚊𝚒𝚗𝚝𝚊𝚒𝚗𝚊𝚋𝚕𝚎 𝚊𝚗𝚍 𝚎𝚡𝚝𝚎𝚗𝚜𝚒𝚋𝚕𝚎 𝚘𝚋𝚓𝚎𝚌𝚝-𝚘𝚛𝚒𝚎𝚗𝚝𝚎𝚍 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎.‍</h3>
-
-
 <p align="center">
 <a><img src="https://img.shields.io/badge/Design%20Patterns-Behavioural-silver?style=for-the-badge&logo=java"></a>
 <a><img src="https://img.shields.io/badge/Built%20By-IntelliJ%20Editor-red?style=for-the-badge&logo=intelliJ%20IDEA"></a>  
 </p>
+<h3 align="center">𝙳𝚎𝚜𝚒𝚐𝚗 𝚙𝚊𝚝𝚝𝚎𝚛𝚗𝚜 𝚏𝚘𝚛 𝚍𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐 𝚖𝚊𝚒𝚗𝚝𝚊𝚒𝚗𝚊𝚋𝚕𝚎 𝚊𝚗𝚍 𝚎𝚡𝚝𝚎𝚗𝚜𝚒𝚋𝚕𝚎 𝚘𝚋𝚓𝚎𝚌𝚝-𝚘𝚛𝚒𝚎𝚗𝚝𝚎𝚍 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎.‍</h3>
 
 
 ## `Types of design patterns`
@@ -28,7 +26,7 @@
 | -- | -- | -- |
 | [`Builder`](https://github.com/devrath/glowing-designpatterns/wiki/Builder-Design-Pattern) | [Adapter]() | [Command]() |
 | [Dependency Injection]() | [Facade]() | [Observer]() |
-| [Singleton]() | [Decorator]() | [Strategy]() |
+| [Singleton](https://github.com/devrath/glowing-designpatterns/wiki/Singleton-Design-Pattern) | [Decorator]() | [Strategy]() |
 | [`Factory`](https://github.com/devrath/glowing-designpatterns/wiki/Factory-Design-Pattern) | [Composite]() | [State]() |
 
 
