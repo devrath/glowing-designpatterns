@@ -26,7 +26,7 @@
 | -- | -- | -- |
 | [`Builder`](https://github.com/devrath/glowing-designpatterns/wiki/Builder-Design-Pattern) | [Adapter]() | [Command]() |
 | [Dependency Injection]() | [Facade]() | [Observer]() |
-| [Singleton](https://github.com/devrath/glowing-designpatterns/wiki/Singleton-Design-Pattern) | [Decorator]() | [Strategy]() |
+| [`Singleton`](https://github.com/devrath/glowing-designpatterns/wiki/Singleton-Design-Pattern) | [Decorator]() | [Strategy]() |
 | [`Factory`](https://github.com/devrath/glowing-designpatterns/wiki/Factory-Design-Pattern) | [Composite]() | [State]() |
 
 
