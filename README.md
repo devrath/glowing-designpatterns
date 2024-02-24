@@ -13,9 +13,9 @@
   
 | **`Contents`** |
 | ---------- |
-| [`Types of design patterns`]() |
-| [`Different Design patterns`]() |
-| [`Composition`]() |
+| [`Types of design patterns`](https://github.com/devrath/glowing-designpatterns/blob/main/README.md#types-of-design-patterns) |
+| [`Different Design patterns`](https://github.com/devrath/glowing-designpatterns/blob/main/README.md#different-design-patterns) |
+| [`Composition`](https://github.com/devrath/glowing-designpatterns/wiki/Composition) |
 
 </div>
 
