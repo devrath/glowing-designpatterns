@@ -9,6 +9,19 @@
 <h3 align="center">𝙳𝚎𝚜𝚒𝚐𝚗 𝚙𝚊𝚝𝚝𝚎𝚛𝚗𝚜 𝚏𝚘𝚛 𝚍𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐 𝚖𝚊𝚒𝚗𝚝𝚊𝚒𝚗𝚊𝚋𝚕𝚎 𝚊𝚗𝚍 𝚎𝚡𝚝𝚎𝚗𝚜𝚒𝚋𝚕𝚎 𝚘𝚋𝚓𝚎𝚌𝚝-𝚘𝚛𝚒𝚎𝚗𝚝𝚎𝚍 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎.‍</h3>
 
 
+<div align="center">
+  
+| **`Contents`** |
+| ---------- |
+| [`Types of design patterns`]() |
+| [`Different Design patterns`]() |
+| [`Composition`]() |
+
+</div>
+
+
+
+
 ## `Types of design patterns`
 <p align="center">
   <img width="400" height="300" src="https://github.com/devrath/glowing-designpatterns/blob/main/images/ds_types.png">
