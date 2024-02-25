@@ -17,7 +17,7 @@
 | [`Different Design patterns`](https://github.com/devrath/glowing-designpatterns/blob/main/README.md#different-design-patterns) |
 | [`Composition`](https://github.com/devrath/glowing-designpatterns/wiki/Composition) |
 | [`Inheritance`](https://github.com/devrath/glowing-designpatterns/wiki/Inheritance) |
-
+| [`Favour composition over inheritance`](https://github.com/devrath/glowing-designpatterns/wiki/Favour-composition-over-inheritance) |
 
 </div>
 
