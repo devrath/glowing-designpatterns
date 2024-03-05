@@ -39,7 +39,7 @@
 ## `Different design patterns`
 | **`Creational Design Patterns`** | **`Structural Design Patterns`** | **`Behavioral Design Patterns`** |
 | -- | -- | -- |
-| [`Builder`](https://github.com/devrath/glowing-designpatterns/wiki/Builder-Design-Pattern) | [Adapter](https://github.com/devrath/glowing-designpatterns/wiki/Adapter-Design-Pattern#general-reference-scenario) | [Command]() |
+| [`Builder`](https://github.com/devrath/glowing-designpatterns/wiki/Builder-Design-Pattern) | [`Adapter`](https://github.com/devrath/glowing-designpatterns/wiki/Adapter-Design-Pattern#general-reference-scenario) | [Command]() |
 | [Dependency Injection]() | [`Facade`](https://github.com/devrath/glowing-designpatterns/wiki/Facade-Design-Pattern) | [Observer]() |
 | [`Singleton`](https://github.com/devrath/glowing-designpatterns/wiki/Singleton-Design-Pattern) | [Decorator]() | [`Strategy`](https://github.com/devrath/glowing-designpatterns/wiki/Strategy-Design-Pattern) |
 | [`Factory`](https://github.com/devrath/glowing-designpatterns/wiki/Factory-Design-Pattern) | [Composite]() | [State]() |
