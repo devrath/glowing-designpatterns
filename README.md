@@ -9,6 +9,21 @@
 <h3 align="center">𝙳𝚎𝚜𝚒𝚐𝚗 𝚙𝚊𝚝𝚝𝚎𝚛𝚗𝚜 𝚏𝚘𝚛 𝚍𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐 𝚖𝚊𝚒𝚗𝚝𝚊𝚒𝚗𝚊𝚋𝚕𝚎 𝚊𝚗𝚍 𝚎𝚡𝚝𝚎𝚗𝚜𝚒𝚋𝚕𝚎 𝚘𝚋𝚓𝚎𝚌𝚝-𝚘𝚛𝚒𝚎𝚗𝚝𝚎𝚍 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎.‍</h3>
 
 
+<div align="center">
+  
+| **`Contents`** |
+| ---------- |
+| [`Types of design patterns`](https://github.com/devrath/glowing-designpatterns/blob/main/README.md#types-of-design-patterns) |
+| [`Different Design patterns`](https://github.com/devrath/glowing-designpatterns/blob/main/README.md#different-design-patterns) |
+| [`Composition`](https://github.com/devrath/glowing-designpatterns/wiki/Composition) |
+| [`Inheritance`](https://github.com/devrath/glowing-designpatterns/wiki/Inheritance) |
+| [`Favour composition over inheritance`](https://github.com/devrath/glowing-designpatterns/wiki/Favour-composition-over-inheritance) |
+
+</div>
+
+
+
+
 ## `Types of design patterns`
 <p align="center">
   <img width="400" height="300" src="https://github.com/devrath/glowing-designpatterns/blob/main/images/ds_types.png">
@@ -25,7 +40,7 @@
 | **`Creational Design Patterns`** | **`Structural Design Patterns`** | **`Behavioral Design Patterns`** |
 | -- | -- | -- |
 | [`Builder`](https://github.com/devrath/glowing-designpatterns/wiki/Builder-Design-Pattern) | [Adapter]() | [Command]() |
-| [Dependency Injection]() | [Facade]() | [Observer]() |
+| [Dependency Injection]() | [`Facade`](https://github.com/devrath/glowing-designpatterns/wiki/Facade-Design-Pattern) | [Observer]() |
 | [`Singleton`](https://github.com/devrath/glowing-designpatterns/wiki/Singleton-Design-Pattern) | [Decorator]() | [Strategy]() |
 | [`Factory`](https://github.com/devrath/glowing-designpatterns/wiki/Factory-Design-Pattern) | [Composite]() | [State]() |
 
