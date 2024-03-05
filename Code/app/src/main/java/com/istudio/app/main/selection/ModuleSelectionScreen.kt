@@ -23,10 +23,9 @@ fun ModuleSelectionScreen(navController: NavHostController) {
 
         Spacer(modifier = Modifier.height(16.dp))
 
-        AppButton(text = "Single Responsibility", onClick = {
-
+        AppButton(text = "Builder", onClick = {
+            navController.navigate(ModuleDemo.BuilderDemo.rout)
         })
-
 
     }
 }
